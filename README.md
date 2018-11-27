@@ -1,6 +1,6 @@
 # Spring Cloud Practice
 
-A simple wallet microservice about managing a Player Account
+
 
 
 ## Getting Started
