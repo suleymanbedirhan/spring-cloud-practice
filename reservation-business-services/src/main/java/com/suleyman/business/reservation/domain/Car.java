@@ -8,6 +8,13 @@ public class Car {
 
     private String year;
 
+    public Car(){}
+
+    public Car(String model, String year){
+        this.model = model;
+        this.year = year;
+    }
+
     public long getId() {
         return id;
     }
